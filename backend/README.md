@@ -1,13 +1,13 @@
-You need to have Node (v12 or greater)
+You need to have Node (14 or greater)
 
 Install the node modules:
 
-    npm install
+    yarn
 
 Launch the tests:
 
-    npm test
+    yarn test
 
 Start the server:
 
-    node app
+    yarn start
